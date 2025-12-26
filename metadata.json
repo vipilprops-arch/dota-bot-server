@@ -1,0 +1,5 @@
+{
+  "name": "Dota 2 Match Tracker & Analyst",
+  "description": "A sophisticated dashboard that tracks Dota 2 player status and uses Gemini AI with Google Search to analyze recent matches from Dotabuff, simulating a Telegram bot experience.",
+  "requestFramePermissions": []
+}
